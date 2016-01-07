@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ccg/ccg.iml" filepath="$PROJECT_DIR$/ccg/ccg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccg.lexicon/ccg.lexicon.iml" filepath="$PROJECT_DIR$/ccg.lexicon/ccg.lexicon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccg.lexicon.factored.lambda/ccg.lexicon.factored.lambda.iml" filepath="$PROJECT_DIR$/ccg.lexicon.factored.lambda/ccg.lexicon.factored.lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data.singlesentence/data.singlesentence.iml" filepath="$PROJECT_DIR$/data.singlesentence/data.singlesentence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data.singlesentence.lex/data.singlesentence.lex.iml" filepath="$PROJECT_DIR$/data.singlesentence.lex/data.singlesentence.lex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data.situated/data.situated.iml" filepath="$PROJECT_DIR$/data.situated/data.situated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exec/exec.iml" filepath="$PROJECT_DIR$/exec/exec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/explat/explat.iml" filepath="$PROJECT_DIR$/explat/explat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genlex.ccg/genlex.ccg.iml" filepath="$PROJECT_DIR$/genlex.ccg/genlex.ccg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genlex.ccg.template/genlex.ccg.template.iml" filepath="$PROJECT_DIR$/genlex.ccg.template/genlex.ccg.template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genlex.ccg.unification/genlex.ccg.unification.iml" filepath="$PROJECT_DIR$/genlex.ccg.unification/genlex.ccg.unification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geoquery/geoquery.iml" filepath="$PROJECT_DIR$/geoquery/geoquery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn/learn.iml" filepath="$PROJECT_DIR$/learn/learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn.simple/learn.simple.iml" filepath="$PROJECT_DIR$/learn.simple/learn.simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn.situated/learn.situated.iml" filepath="$PROJECT_DIR$/learn.situated/learn.situated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn.validation/learn.validation.iml" filepath="$PROJECT_DIR$/learn.validation/learn.validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mr.lambda/mr.lambda.iml" filepath="$PROJECT_DIR$/mr.lambda/mr.lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mr.lambda.ccg/mr.lambda.ccg.iml" filepath="$PROJECT_DIR$/mr.lambda.ccg/mr.lambda.ccg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mr.lambda.exec.naive/mr.lambda.exec.naive.iml" filepath="$PROJECT_DIR$/mr.lambda.exec.naive/mr.lambda.exec.naive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg/parser.ccg.iml" filepath="$PROJECT_DIR$/parser.ccg/parser.ccg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.cky/parser.ccg.cky.iml" filepath="$PROJECT_DIR$/parser.ccg.cky/parser.ccg.cky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.cky.genlex/parser.ccg.cky.genlex.iml" filepath="$PROJECT_DIR$/parser.ccg.cky.genlex/parser.ccg.cky.genlex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.factoredlex/parser.ccg.factoredlex.iml" filepath="$PROJECT_DIR$/parser.ccg.factoredlex/parser.ccg.factoredlex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.features.basic/parser.ccg.features.basic.iml" filepath="$PROJECT_DIR$/parser.ccg.features.basic/parser.ccg.features.basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.features.lambda/parser.ccg.features.lambda.iml" filepath="$PROJECT_DIR$/parser.ccg.features.lambda/parser.ccg.features.lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.joint/parser.ccg.joint.iml" filepath="$PROJECT_DIR$/parser.ccg.joint/parser.ccg.joint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.joint.cky/parser.ccg.joint.cky.iml" filepath="$PROJECT_DIR$/parser.ccg.joint.cky/parser.ccg.joint.cky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.joint.genlex/parser.ccg.joint.genlex.iml" filepath="$PROJECT_DIR$/parser.ccg.joint.genlex/parser.ccg.joint.genlex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.rules/parser.ccg.rules.iml" filepath="$PROJECT_DIR$/parser.ccg.rules/parser.ccg.rules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.rules.coordination/parser.ccg.rules.coordination.iml" filepath="$PROJECT_DIR$/parser.ccg.rules.coordination/parser.ccg.rules.coordination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.rules.coordination.lambda/parser.ccg.rules.coordination.lambda.iml" filepath="$PROJECT_DIR$/parser.ccg.rules.coordination.lambda/parser.ccg.rules.coordination.lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parser.ccg.rules.lambda/parser.ccg.rules.lambda.iml" filepath="$PROJECT_DIR$/parser.ccg.rules.lambda/parser.ccg.rules.lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.ccg.lambda/test.ccg.lambda.iml" filepath="$PROJECT_DIR$/test.ccg.lambda/test.ccg.lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.exec/test.exec.iml" filepath="$PROJECT_DIR$/test.exec/test.exec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinybase/tinybase.iml" filepath="$PROJECT_DIR$/tinybase/tinybase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unittests/unittests.iml" filepath="$PROJECT_DIR$/unittests/unittests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+    </modules>
+  </component>
+</project>
